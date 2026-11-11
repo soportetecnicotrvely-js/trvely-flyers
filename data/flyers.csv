@@ -1,0 +1,88 @@
+﻿id,archivo_original,fecha,familia,destino,hotel,precio_cop,noches,solo_por_hoy,foto_recortada,foto_grupo,ancho,alto
+flyer_001,IMG-20261018-WA0048.jpg,2026-10-18,tour_luces,Boyacá,,,,0,,,900,1600
+flyer_002,IMG-20261030-WA0055.jpg,2026-10-30,promo_2x1,Santa Marta,,,,0,,,900,1600
+flyer_003,IMG-20261030-WA0056.jpg,2026-10-30,promo_2x1,Santa Marta,,,,0,,,900,1600
+flyer_004,IMG-20261030-WA0057.jpg,2026-10-30,promo_2x1,Coveñas,,,,0,,,900,1600
+flyer_005,IMG-20261030-WA0058.jpg,2026-10-30,promo_2x1,Coveñas,,,,0,,,900,1600
+flyer_006,IMG-20261030-WA0060.jpg,2026-10-30,promo_2x1,Medellín,,,,0,,,900,1600
+flyer_007,IMG-20261030-WA0061.jpg,2026-10-30,promo_2x1,Medellín,,,,0,,,900,1600
+flyer_008,IMG-20261030-WA0062.jpg,2026-10-30,promo_2x1,Santo Domingo,,,,0,,,900,1600
+flyer_009,IMG-20261030-WA0063.jpg,2026-10-30,promo_2x1,Santo Domingo,,,,0,,,900,1600
+flyer_010,IMG-20261030-WA0064.jpg,2026-10-30,promo_2x1,Jamaica,,,,0,,,900,1600
+flyer_011,IMG-20261030-WA0065.jpg,2026-10-30,incentivo_asesores,(todas),,,,0,,,1600,1065
+flyer_012,IMG-20261104-WA0026.jpg,2026-11-04,pasadia,Villa de Leyva,,,,0,,,900,1600
+flyer_013,IMG-20261104-WA0027.jpg,2026-11-04,pasadia,Piedra Colgada,,,,0,,,900,1600
+flyer_014,IMG-20261104-WA0028.jpg,2026-11-04,pasadia,Guatavita,,,,0,,,900,1600
+flyer_015,IMG-20261104-WA0029.jpg,2026-11-04,pasadia,Prado,,,,0,,,900,1600
+flyer_016,IMG-20261104-WA0030.jpg,2026-11-04,pasadia,Paipa,,,,0,,,900,1600
+flyer_017,IMG-20261104-WA0031.jpg,2026-11-04,pasadia,Tota,,,,0,,,900,1600
+flyer_018,IMG-20261104-WA0032.jpg,2026-11-04,pasadia,Playa Hawai,,,,0,,,900,1600
+flyer_019,IMG-20261104-WA0033.jpg,2026-11-04,oferta_verde,La Guajira,,1579900,3,0,flyer_019.jpg,foto_001,900,1600
+flyer_020,IMG-20261104-WA0034.jpg,2026-11-04,oferta_verde,La Guajira,,1779900,3,0,flyer_020.jpg,foto_002,900,1600
+flyer_021,IMG-20261104-WA0035.jpg,2026-11-04,oferta_verde,La Guajira,,1249900,3,0,flyer_021.jpg,foto_003,900,1600
+flyer_022,IMG-20261104-WA0036.jpg,2026-11-04,oferta_verde,Medellín,,1179900,3,0,flyer_022.jpg,foto_004,900,1600
+flyer_023,IMG-20261104-WA0037.jpg,2026-11-04,oferta_verde,Medellín,,1039900,3,0,flyer_023.jpg,foto_005,900,1600
+flyer_024,IMG-20261104-WA0038.jpg,2026-11-04,oferta_verde,Medellín,,889900,3,0,flyer_024.jpg,foto_006,900,1600
+flyer_025,IMG-20261104-WA0039.jpg,2026-11-04,oferta_verde,Coveñas,,1539900,3,0,flyer_025.jpg,foto_007,900,1600
+flyer_026,IMG-20261104-WA0040.jpg,2026-11-04,oferta_verde,Coveñas,,1419900,3,0,flyer_026.jpg,foto_008,900,1600
+flyer_027,IMG-20261104-WA0041.jpg,2026-11-04,oferta_verde,Coveñas,,1499900,3,0,flyer_027.jpg,foto_009,900,1600
+flyer_028,IMG-20261104-WA0042.jpg,2026-11-04,oferta_verde,Tolú,,1919900,3,0,flyer_028.jpg,foto_010,895,1600
+flyer_029,IMG-20261104-WA0043.jpg,2026-11-04,oferta_verde,Coveñas,,1499900,3,0,flyer_029.jpg,foto_009,900,1600
+flyer_030,IMG-20261104-WA0044.jpg,2026-11-04,oferta_verde,Coveñas,,1429900,3,0,flyer_030.jpg,foto_011,895,1600
+flyer_031,IMG-20261104-WA0045.jpg,2026-11-04,oferta_verde,Coveñas,,1499900,3,0,flyer_031.jpg,foto_012,900,1600
+flyer_032,IMG-20261104-WA0046.jpg,2026-11-04,oferta_verde,Coveñas,,1309900,3,0,flyer_032.jpg,foto_013,900,1600
+flyer_033,IMG-20261104-WA0047.jpg,2026-11-04,oferta_verde,Coveñas,,1459900,3,0,flyer_033.jpg,foto_012,900,1600
+flyer_034,IMG-20261109-WA0022.jpg,2026-11-09,oferta_verde,San Andrés,,2129900,3,0,flyer_034.jpg,foto_014,900,1600
+flyer_035,IMG-20261109-WA0023.jpg,2026-11-09,oferta_verde,San Andrés,,2979900,3,0,flyer_035.jpg,foto_015,900,1600
+flyer_036,IMG-20261109-WA0024.jpg,2026-11-09,oferta_verde,San Andrés,,2769900,3,0,flyer_036.jpg,foto_016,900,1600
+flyer_037,IMG-20261109-WA0025.jpg,2026-11-09,oferta_verde,San Andrés,,2049900,3,0,flyer_037.jpg,foto_017,900,1600
+flyer_038,IMG-20261109-WA0026.jpg,2026-11-09,oferta_verde,San Andrés,,1559900,3,0,flyer_038.jpg,foto_018,900,1600
+flyer_039,IMG-20261109-WA0027.jpg,2026-11-09,oferta_verde,San Andrés,,2079900,3,0,flyer_039.jpg,foto_019,900,1600
+flyer_040,IMG-20261109-WA0028.jpg,2026-11-09,oferta_verde,San Andrés,,2609900,3,0,flyer_040.jpg,foto_020,900,1600
+flyer_041,IMG-20261109-WA0029.jpg,2026-11-09,oferta_verde,San Andrés,,1719900,3,0,flyer_041.jpg,foto_021,900,1600
+flyer_042,IMG-20261109-WA0030.jpg,2026-11-09,oferta_verde,San Andrés,,2579900,3,0,flyer_042.jpg,foto_022,900,1600
+flyer_043,IMG-20261109-WA0031.jpg,2026-11-09,oferta_verde,Cartagena,,1599900,3,0,flyer_043.jpg,foto_023,900,1600
+flyer_044,IMG-20261109-WA0032.jpg,2026-11-09,oferta_verde,Cartagena,,1599900,3,0,flyer_044.jpg,foto_024,900,1600
+flyer_045,IMG-20261109-WA0033.jpg,2026-11-09,oferta_verde,Cartagena,,1619900,3,0,flyer_045.jpg,foto_023,900,1600
+flyer_046,IMG-20261109-WA0034.jpg,2026-11-09,oferta_verde,Cartagena,,1689900,3,0,flyer_046.jpg,foto_025,900,1600
+flyer_047,IMG-20261109-WA0035.jpg,2026-11-09,oferta_verde,Santa Marta,,1499900,3,0,flyer_047.jpg,foto_026,900,1600
+flyer_048,IMG-20261109-WA0036.jpg,2026-11-09,oferta_verde,Cartagena,,1879900,3,0,flyer_048.jpg,foto_027,900,1600
+flyer_049,IMG-20261109-WA0037.jpg,2026-11-09,oferta_verde,Santa Marta,,1579900,3,0,flyer_049.jpg,foto_028,900,1600
+flyer_050,IMG-20261109-WA0038.jpg,2026-11-09,oferta_verde,Cartagena,,1789900,3,0,flyer_050.jpg,foto_027,900,1600
+flyer_051,IMG-20261109-WA0039.jpg,2026-11-09,oferta_verde,Cartagena,,1609900,3,0,flyer_051.jpg,foto_027,900,1600
+flyer_052,IMG-20261109-WA0040.jpg,2026-11-09,oferta_verde,Cartagena,,1639900,3,0,flyer_052.jpg,foto_029,900,1600
+flyer_053,IMG-20261109-WA0041.jpg,2026-11-09,oferta_verde,Cartagena,,1439900,3,0,flyer_053.jpg,foto_030,900,1600
+flyer_054,IMG-20261109-WA0042.jpg,2026-11-09,oferta_verde,Santa Marta,,1939900,3,0,flyer_054.jpg,foto_031,900,1600
+flyer_055,IMG-20261109-WA0043.jpg,2026-11-09,oferta_verde,Santa Marta,,1399900,3,0,flyer_055.jpg,foto_032,900,1600
+flyer_056,IMG-20261109-WA0044.jpg,2026-11-09,oferta_verde,Santa Marta,,1309900,3,0,flyer_056.jpg,foto_033,900,1600
+flyer_057,IMG-20261109-WA0045.jpg,2026-11-09,oferta_verde,Santa Marta,,1309900,3,0,flyer_057.jpg,foto_034,900,1600
+flyer_058,IMG-20261109-WA0046.jpg,2026-11-09,oferta_verde,Santa Marta,,1329900,3,0,flyer_058.jpg,foto_035,900,1600
+flyer_059,IMG-20261109-WA0047.jpg,2026-11-09,oferta_verde,Santa Marta,,1719900,3,0,flyer_059.jpg,foto_036,900,1600
+flyer_060,IMG-20261109-WA0048.jpg,2026-11-09,oferta_verde,Santa Marta,,1289900,3,0,flyer_060.jpg,foto_037,900,1600
+flyer_061,IMG-20261109-WA0049.jpg,2026-11-09,oferta_verde,Santa Marta,,1439900,3,0,flyer_061.jpg,foto_037,900,1600
+flyer_062,IMG-20261109-WA0050.jpg,2026-11-09,oferta_verde,Santa Marta,,1419900,3,0,flyer_062.jpg,foto_038,900,1600
+flyer_063,IMG-20261109-WA0051.jpg,2026-11-09,oferta_verde,Cartagena,,1249900,3,0,flyer_063.jpg,foto_039,900,1600
+flyer_064,IMG-20261109-WA0052.jpg,2026-11-09,oferta_verde,Santa Marta,,1619900,3,0,flyer_064.jpg,foto_040,900,1600
+flyer_065,IMG-20261109-WA0053.jpg,2026-11-09,oferta_verde,Santa Marta,,2349900,3,0,flyer_065.jpg,foto_041,900,1600
+flyer_066,IMG-20261109-WA0054.jpg,2026-11-09,oferta_verde,Santa Marta,,1419900,3,0,flyer_066.jpg,foto_042,900,1600
+flyer_067,IMG-20261109-WA0055.jpg,2026-11-09,oferta_verde,Santa Marta,,1099900,3,0,flyer_067.jpg,foto_043,900,1600
+flyer_068,IMG-20261109-WA0056.jpg,2026-11-09,oferta_verde,San Andrés,,1579900,3,0,flyer_068.jpg,foto_044,768,1364
+flyer_069,IMG-20261109-WA0057.jpg,2026-11-09,oferta_verde,Eje Cafetero,,1489900,3,0,flyer_069.jpg,foto_045,900,1600
+flyer_070,IMG-20261109-WA0058.jpg,2026-11-09,oferta_verde,Santo Domingo,,2789900,3,0,flyer_070.jpg,foto_046,900,1600
+flyer_071,IMG-20261109-WA0059.jpg,2026-11-09,oferta_verde,Santo Domingo,,3159900,3,0,flyer_071.jpg,foto_047,900,1600
+flyer_072,IMG-20261109-WA0060.jpg,2026-11-09,oferta_verde,Cancún,,3539900,4,0,flyer_072.jpg,foto_048,900,1600
+flyer_073,IMG-20261109-WA0062.jpg,2026-11-09,oferta_verde,Punta Cana,,3119900,4,0,flyer_073.jpg,foto_049,900,1600
+flyer_074,IMG-20261109-WA0063.jpg,2026-11-09,oferta_verde,Punta Cana,,4359900,4,0,flyer_074.jpg,foto_050,900,1600
+flyer_075,IMG-20261109-WA0065.jpg,2026-11-09,explora_cartagena,Cartagena,,,,0,,,900,1600
+flyer_076,IMG-20261110-WA0011.jpg,2026-11-10,oferta_verde,San Andrés,,1779900,3,1,flyer_076.jpg,foto_017,900,1600
+flyer_077,IMG-20261110-WA0012.jpg,2026-11-10,oferta_verde,San Andrés,,1129900,3,1,flyer_077.jpg,foto_018,900,1600
+flyer_078,IMG-20261110-WA0013.jpg,2026-11-10,oferta_verde,San Andrés,,1439900,3,1,flyer_078.jpg,foto_021,900,1600
+flyer_079,IMG-20261110-WA0016.jpg,2026-11-10,oferta_verde,Santa Marta,,1149900,3,1,flyer_079.jpg,foto_026,900,1600
+flyer_080,IMG-20261110-WA0017.jpg,2026-11-10,oferta_verde,Santa Marta,,999900,3,1,flyer_080.jpg,foto_032,900,1600
+flyer_081,IMG-20261110-WA0018.jpg,2026-11-10,oferta_verde,Santa Marta,,2159900,3,1,flyer_081.jpg,foto_051,900,1600
+flyer_082,IMG-20261110-WA0019.jpg,2026-11-10,oferta_verde,Cartagena,,1419900,3,1,flyer_082.jpg,foto_027,900,1600
+flyer_083,IMG-20261110-WA0020.jpg,2026-11-10,oferta_verde,Cartagena,,1259900,3,1,flyer_083.jpg,foto_030,900,1600
+flyer_084,IMG-20261110-WA0021.jpg,2026-11-10,oferta_verde,Cartagena,,1059900,3,1,flyer_084.jpg,foto_039,900,1600
+flyer_085,IMG-20261110-WA0022.jpg,2026-11-10,oferta_verde,Coveñas,,1199900,3,1,flyer_085.jpg,foto_009,900,1600
+flyer_086,IMG-20261110-WA0023.jpg,2026-11-10,oferta_verde,Coveñas,,1119900,3,1,flyer_086.jpg,foto_013,900,1600
+flyer_087,IMG-20261110-WA0024.jpg,2026-11-10,oferta_verde,Tolú,,1599900,3,1,flyer_087.jpg,foto_010,895,1600

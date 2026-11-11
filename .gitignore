@@ -1,0 +1,6 @@
+# datos sensibles / pesados que NO deben subirse
+*.zip
+Chat de WhatsApp*
+*.txt.bak
+.DS_Store
+flyers-originales/
